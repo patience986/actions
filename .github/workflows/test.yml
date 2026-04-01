@@ -2,8 +2,8 @@ name: Node.js Test
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+    
 
 jobs:
   build:
